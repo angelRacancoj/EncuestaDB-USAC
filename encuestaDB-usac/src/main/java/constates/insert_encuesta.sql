@@ -1,0 +1,1 @@
+INSERT INTO ENCUESTA (carrera_usac_id,lugar_procedencia,departamento_procedencia_id,departamento_residencia_id,etnia_id,lugar_trabajo)
